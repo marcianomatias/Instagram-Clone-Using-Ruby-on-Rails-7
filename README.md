@@ -23,4 +23,4 @@ Things you may want to cover:
 
 * ...
 # Instagram-Clone-Using-Ruby-on-Rails-7
-# Instagram-Clone-Using-Ruby-on-Rails-7
+
